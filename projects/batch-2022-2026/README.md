@@ -1,8 +1,18 @@
-# Examine AI Intelligence
+# 📌 Examine the Role of Generative AI in Enhancing 
+Threat Intelligence and Cyber Security Measures
 
 A Django-based web application that examines the role of generative AI, particularly in cybersecurity contexts. This project demonstrates the application of generative adversarial networks (GANs) for data synthesis and anomaly detection.
 
-## Features
+## 👥 Team Members
+
+| S.No | Name                     | Roll Number   |
+|------|--------------------------|---------------|
+| 1    | Mohammed Abdul Jamal     | 160922748058  |
+| 2    | Mohd Abdul Salam         | 160922748026  |
+| 3    | Nameera Bareen           | 160922748008  |
+| 4    | Afifa Iram               | 160922748019  |
+
+## 🚀 Key Features
 
 - User registration and authentication
 - Admin panel for managing users
@@ -11,7 +21,7 @@ A Django-based web application that examines the role of generative AI, particul
 - Interactive Jupyter notebook for AI experiments
 - Web interface for viewing results and generating synthetic data
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Django (Python web framework)
 - TensorFlow/Keras (for GAN implementation)
@@ -19,7 +29,7 @@ A Django-based web application that examines the role of generative AI, particul
 - HTML/CSS (frontend)
 - Jupyter Notebook (for AI experimentation)
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
    ```
@@ -48,7 +58,7 @@ A Django-based web application that examines the role of generative AI, particul
    python manage.py createsuperuser
    ```
 
-## Usage
+## ▶️ Usage
 
 1. Start the Django development server:
    ```
@@ -63,7 +73,7 @@ A Django-based web application that examines the role of generative AI, particul
    - View synthetic data generation results
    - Access the Jupyter notebook in the media folder for AI experiments
 
-## Project Structure
+## 📂 Project Structure
 
 - `ExamineAIIntelligence/` - Main Django project settings
 - `users/` - User management app
@@ -72,10 +82,10 @@ A Django-based web application that examines the role of generative AI, particul
 - `media/` - Jupyter notebooks and experimental files
 - `db.sqlite3` - SQLite database
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests.
 
-## License
+## 📜 License
 
 This project is for educational purposes.
